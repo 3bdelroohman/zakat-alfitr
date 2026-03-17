@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/zakat-alfitr/static/css/main.4091d38a.css",
-    "main.js": "/zakat-alfitr/static/js/main.7d19bc18.js",
+    "main.css": "/zakat-alfitr/static/css/main.55baeaca.css",
+    "main.js": "/zakat-alfitr/static/js/main.8305ec2c.js",
     "index.html": "/zakat-alfitr/index.html",
-    "main.4091d38a.css.map": "/zakat-alfitr/static/css/main.4091d38a.css.map",
-    "main.7d19bc18.js.map": "/zakat-alfitr/static/js/main.7d19bc18.js.map"
+    "main.55baeaca.css.map": "/zakat-alfitr/static/css/main.55baeaca.css.map",
+    "main.8305ec2c.js.map": "/zakat-alfitr/static/js/main.8305ec2c.js.map"
   },
   "entrypoints": [
-    "static/css/main.4091d38a.css",
-    "static/js/main.7d19bc18.js"
+    "static/css/main.55baeaca.css",
+    "static/js/main.8305ec2c.js"
   ]
 }
